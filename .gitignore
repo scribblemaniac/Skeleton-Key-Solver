@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Project specific
+levels.dat
+levels-processed.dat
+levels-answers.txt
